@@ -34,6 +34,11 @@ Este projeto utiliza Machine Learning, especificamente Regressão Linear, para p
    streamlit run app2.py
    ```
 
+## Captura de Telas
+
+![previsapPrecoPizza](https://github.com/user-attachments/assets/014f4833-8238-4e23-a259-8096677e0fd5)
+
+
 ## Desafios Encontrados
 
 - **Integração de Machine Learning com Interface Web**: Combinar o modelo de ML com uma interface interativa Streamlit.
